@@ -14,6 +14,10 @@ The program to check if there is a prime number except 3 which will result a pri
    
     $ python primerp^p.py 100
     
+  primerp^p.py uses [Sympy](https://live.sympy.org/). Before running the script make sure to install Sympy library.
+  
+    $ pip install sympy
+    
 
 
   
