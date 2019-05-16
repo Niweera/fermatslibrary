@@ -6,7 +6,14 @@ The program to check if there is a prime number except 3 which will result a pri
 
     $ node primerp^p.js
     
-    $ python primerp^p.py
+  or
+    
+    $ python primerp^p.py <starting point>
+    
+  Example:
+   
+    $ python primerp^p.py 100
+    
 
 
   
