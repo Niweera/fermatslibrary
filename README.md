@@ -1,4 +1,4 @@
-# Fermat's Library
+# [Fermat's Library](https://fermatslibrary.com/)
 The programs in this repo are tests to prove or disprove mathematical theorems.
 
 ## 1. primerp^p
